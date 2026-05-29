@@ -7,6 +7,10 @@
 * Ghi rõ thời gian vận hành trung bình: **Tổng cộng = ____ phút/lượt**.
 
 ## 3.2. Problem Statement (6-field) & Metrics (15 min)
+* **Bài Toán**: Xe buýt điện VinBus bảo trì chủ yếu theo lịch km/checklist; cần dự báo lỗi pin, phanh, HVAC, cửa, motor, BMS sớm để giảm downtime và chi phí sửa ngoài kế hoạch.
+
+* **Mô Tả Bài Toán**: Bảo trì định kỳ & xử lý lỗi sau khi phát sinh: kỹ thuật viên đọc log, checklist, báo lỗi tài xế, lịch bảo dưỡng cố định theo km. Vấn đề cần xử lí là khả năng dự đoán được việc bảo trì sớm trước để giúp giảm chi phí bảo trì, downtime ngoài kế hoạch, giảm lỗi bất ngờ. AI dự báo lỗi pin, phanh, HVAC, cửa, motor, BMS; scoring rủi ro theo xe; tự động tạo work order; dự báo phụ tùng; phân biệt lỗi thật và lỗi cảm biến.
+
 Điền đầy đủ 6 trường thông tin của bài toán:
 
 | Field | Nội dung chi tiết |
