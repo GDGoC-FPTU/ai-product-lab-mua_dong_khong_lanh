@@ -1,3 +1,7 @@
+Tên nhóm: mua_dong_khong_lanh
+Họ tên: Nguyễn Tiến Đạt
+Email: 26ai.datnt5@vinuni.edu.vn
+
 # 03 - AI Log & Reflection
 
 ## Bối cảnh sử dụng AI

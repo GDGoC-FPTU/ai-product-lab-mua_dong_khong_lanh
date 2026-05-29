@@ -1,3 +1,6 @@
+Tên nhóm: mua_dong_khong_lanh
+Họ tên: Nguyễn Tiến Đạt
+Email: 26ai.datnt5@vinuni.edu.vn
 # 01 - Problem Scan: Vin Smart Future
 
 File này hoàn thiện Phase 1 (SCAN) và Phase 2 (QUICK-ASSESS) cho Lab 02 - AI Product Scoping.
